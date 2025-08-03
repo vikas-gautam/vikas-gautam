@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikash Gautam</h1>
 
 #### 
-<h3 align="center">👀 I'm a DevOps Consultant and I am interested in DevOps, Programming and Blogging.</h3>
+<h3 align="center">👀 I'm a DevOps Architect and I am interested in DevOps, Programming and Blogging.</h3>
 
 - Currently working with [Opstree Solution](https://www.opstree.com/)
 - 🔭 I’m currently working on **microservice based project**
